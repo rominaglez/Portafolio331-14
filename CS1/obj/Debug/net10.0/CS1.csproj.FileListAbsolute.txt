@@ -1,0 +1,14 @@
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\bin\Debug\net10.0\CS1.exe
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\bin\Debug\net10.0\CS1.deps.json
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\bin\Debug\net10.0\CS1.runtimeconfig.json
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\bin\Debug\net10.0\CS1.dll
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\bin\Debug\net10.0\CS1.pdb
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\CS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\CS1.AssemblyInfoInputs.cache
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\CS1.AssemblyInfo.cs
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\CS1.csproj.CoreCompileInputs.cache
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\CS1.dll
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\refint\CS1.dll
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\CS1.pdb
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\CS1.genruntimeconfig.cache
+C:\Users\romig\OneDrive\Documents\CSharp\CS1\obj\Debug\net10.0\ref\CS1.dll
